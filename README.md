@@ -1,2 +1,2 @@
 # kottans-backend
-Начал проходить курс от kottans
+Hey everybody, I want to learn programming!!!
